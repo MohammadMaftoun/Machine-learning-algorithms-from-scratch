@@ -9,6 +9,7 @@ Key Features:
         Linear Regression
         Logistic Regression
         Decision Trees
+        Random Forest
         k-Nearest Neighbors (kNN)
         Support Vector Machines (SVM)
         K-Means Clustering
