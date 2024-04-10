@@ -26,7 +26,7 @@ Key Features:
     Integration with Popular Libraries: While the focus of this repository is on implementing algorithms from scratch, users can also find comparisons with implementations from popular machine learning libraries such as scikit-learn and TensorFlow. This allows users to benchmark the performance of their implementations against established solutions.
 
     Contributing Guidelines: The repository welcomes contributions from the community to improve existing implementations, add new algorithms, or fix bugs. Guidelines for contributing are provided to ensure consistency and quality across contributions.
-
+![MAL](https://miro.medium.com/v2/resize:fit:1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg)
 # Usage:
 To use the Machine Learning Algorithms from Scratch repository, users can simply clone the repository to their local machine and explore the individual algorithm implementations. They can then run the example scripts provided to see how the algorithms perform on sample datasets. Additionally, users can refer to the documentation for each algorithm to gain insights into its theoretical foundations and practical usage.
 
