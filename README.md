@@ -1,11 +1,11 @@
 # Machine-learning-algorithms-from-scratch
 ![ML](https://media.geeksforgeeks.org/wp-content/uploads/20230808130011/Machine-Learning-Algorithms1-(1).webp)
 # Description:
-The Machine Learning Algorithms from Scratch repository aims to provide a comprehensive collection of well-documented implementations of various machine learning algorithms written entirely from scratch in Python. By delving into machine learning fundamentals and manually coding these algorithms, users can better understand their internal workings and principles. This repository serves as an educational resource for both beginners and experienced practitioners in machine learning.
+The Machine Learning Algorithms from Scratch repository aims to provide a comprehensive collection of well-documented implementations of various machine learning algorithms written entirely from scratch in Python. Users can better understand their internal workings and principles by delving into machine learning fundamentals and manually coding these algorithms. This repository serves as an educational resource for both beginners and experienced practitioners in machine learning.
 
 Key Features:
 
-    Algorithm Implementations: The repository includes implementations of a wide range of machine learning algorithms, covering both supervised and unsupervised learning techniques. This includes but is not limited to:
+    Algorithm Implementations: The repository includes implementations of a wide range of machine learning algorithms, covering both supervised and unsupervised learning techniques. This contains but is not limited to:
         Linear Regression
         Logistic Regression
         Decision Trees
@@ -24,7 +24,7 @@ Key Features:
 
     Performance Evaluation: The repository includes utilities for evaluating the performance of the implemented algorithms on various datasets. Metrics such as accuracy, precision, recall, and F1-score are computed to assess the effectiveness of the algorithms in different scenarios.
 
-    Integration with Popular Libraries: While the focus of this repository is on implementing algorithms from scratch, users can also find comparisons with implementations from popular machine learning libraries such as scikit-learn and TensorFlow. This allows users to benchmark the performance of their implementations against established solutions.
+    Integration with Popular Libraries: While the focus of this repository is on implementing algorithms from scratch, users can also find comparisons with implementations from popular machine learning libraries such as scikit-learn and TensorFlow. This allows us to benchmark the performance of their implementations against established solutions.
 
     Contributing Guidelines: The repository welcomes contributions from the community to improve existing implementations, add new algorithms, or fix bugs. Guidelines for contributing are provided to ensure consistency and quality across contributions.
 ![MAL](https://miro.medium.com/v2/resize:fit:1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg)
