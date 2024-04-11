@@ -43,4 +43,4 @@ Contributions to the repository are highly encouraged. Users can contribute by:
 Before contributing, users are advised to review the contributing guidelines provided in the repository to ensure that their contributions align with the project's objectives and coding standards.
 
 # License:
-This repository is open-source and available under the MIT License, allowing users to freely use, modify, and distribute the code for both commercial and non-commercial purposes.
+This repository is open-source, allowing users to freely use, modify, and distribute the code for both commercial and non-commercial purposes.
