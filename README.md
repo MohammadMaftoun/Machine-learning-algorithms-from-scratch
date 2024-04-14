@@ -14,7 +14,7 @@ Key Features:
         Support Vector Machines (SVM)
         K-Means Clustering
         Principal Component Analysis (PCA)
-        Neural Networks (Multilayer Perceptron)
+        Multilayer Perceptron (MLP)
 
     Modular Structure: Each algorithm implementation is structured into modular components, making it easy to understand and modify. The code is well-commented and follows best practices for readability and maintainability.
 
@@ -24,7 +24,7 @@ Key Features:
 
     Performance Evaluation: The repository includes utilities for evaluating the performance of the implemented algorithms on various datasets. Metrics such as accuracy, precision, recall, and F1-score are computed to assess the effectiveness of the algorithms in different scenarios.
 
-    Integration with Popular Libraries: While the focus of this repository is on implementing algorithms from scratch, users can also find comparisons with implementations from popular machine learning libraries such as Scikit-Learn and TensorFlow. This allows us to benchmark the performance of their implementations against established solutions.
+    Integration with Popular Libraries: While this repository focuses on implementing algorithms from scratch, users can also find comparisons with implementations from popular machine learning libraries such as Scikit-Learn and TensorFlow. This allows us to benchmark the performance of their implementations against established solutions.
 
     Contributing Guidelines: The repository welcomes contributions from the community to improve existing implementations, add new algorithms, or fix bugs. Guidelines for contributing are provided to ensure consistency and quality across contributions.
 ![MAL](https://miro.medium.com/v2/resize:fit:1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg)
