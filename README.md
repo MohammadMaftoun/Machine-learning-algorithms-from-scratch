@@ -13,6 +13,8 @@ Key Features:
         k-Nearest Neighbors (kNN)
         Support Vector Machines (SVM)
         K-Means Clustering
+        XGBoost
+        DBScan
         Principal Component Analysis (PCA)
         Multilayer Perceptron (MLP)
 
