@@ -31,7 +31,7 @@ The Machine Learning Algorithms from Scratch repository aims to provide a compre
     Contributing Guidelines: The repository welcomes contributions from the community to improve existing implementations, add new algorithms, or fix bugs. Guidelines for contributing are provided to ensure consistency and quality across contributions.
 ![MAL](https://miro.medium.com/v2/resize:fit:1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg)
 # Usage:
-Users can simply clone the repository to their local machine and explore the individual algorithm implementations to use the Machine Learning Algorithms from the Scratch repository. They can then run the example scripts provided to see how the algorithms perform on sample datasets. Additionally, users can refer to the documentation for each algorithm to gain insights into its theoretical foundations and practical usage.
+Users can clone the repository to their local machine and explore the individual algorithm implementations to use the Machine Learning Algorithms from the Scratch repository. They can then run the example scripts to see how the algorithms perform on sample datasets. Additionally, users can refer to the documentation for each algorithm to gain insights into its theoretical foundations and practical usage.
 
 # Contributing:
 Contributions to the repository are highly motivated. Users can contribute by:
