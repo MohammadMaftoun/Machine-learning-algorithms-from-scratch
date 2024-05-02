@@ -5,7 +5,7 @@ The Machine Learning Algorithms from Scratch repository aims to provide a compre
 
 # Key Features:
 
-    Algorithm Implementations: The repository includes implementations of a wide range of machine learning algorithms, covering both supervised and unsupervised learning techniques. This possesses but is not limited to:
+    Algorithm Implementations: The repository contains implementations of a wide range of machine learning algorithms, covering both supervised and unsupervised learning techniques. This possesses but is not limited to:
         Linear Regression
         Logistic Regression
         Decision Trees
@@ -18,7 +18,7 @@ The Machine Learning Algorithms from Scratch repository aims to provide a compre
         Principal Component Analysis (PCA)
         Multilayer Perceptron (MLP)
 
-    Modular Structure: Each algorithm implementation is structured into modular components, making it easy to understand and modify. The code is well-commented and follows best practices for readability and maintainability.
+    Modular Structure: Each algorithm implementation is organized into modular components, making it easy to understand and modify. The code is well-commented and follows best practices for readability and maintainability.
 
     Documentation: The repository contains comprehensive documentation for each algorithm, including explanations of the underlying concepts, mathematical formulations, and implementation details.
     
@@ -45,4 +45,4 @@ Contributions to the repository are highly motivated. Users can contribute by:
 Before contributing, users are advised to review the contributing guidelines provided in the repository to ensure that their contributions align with the project's objectives and coding standards.
 
 # License:
-This open-source repository allows users to freely use, modify, and distribute the code for both commercial and non-commercial purposes.
+This open-source repository allows users to freely use, modify, and distribute the code for commercial and non-commercial purposes.
