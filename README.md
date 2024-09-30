@@ -5,7 +5,7 @@ The Machine Learning Algorithms from Scratch repository aims to provide a compre
 
 # Key Features:
 
-    Algorithm Implementations: The repository contains implementations of a wide range of machine learning algorithms, covering both supervised and unsupervised learning techniques. This possesses but is not limited to:
+    Algorithm Implementations: The repository includes implementations of a wide range of machine learning algorithms, covering both supervised and unsupervised learning techniques. This possesses but is not limited to:
         Linear Regression
         Logistic Regression
         Decision Trees
