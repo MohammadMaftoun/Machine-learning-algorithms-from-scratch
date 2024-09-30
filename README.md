@@ -1,7 +1,7 @@
 # Machine-learning-algorithms-from-scratch
 ![ML](https://media.geeksforgeeks.org/wp-content/uploads/20230808130011/Machine-Learning-Algorithms1-(1).webp)
 # Description:
-The Machine Learning Algorithms from Scratch repository aims to provide a comprehensive collection of well-documented implementations of various machine learning algorithms composed completely from scratch in Python. Users can better comprehend their internal workings and principles by delving into machine learning fundamentals and manually coding these algorithms. This repository operates as an educational resource for those interested in machine learning.
+The Machine Learning Algorithms from Scratch repository aims to provide a comprehensive collection of well-documented implementations of various machine learning algorithms composed completely from scratch in Python. Users can better comprehend their internal workings and principles by delving into machine learning fundamentals and manually coding these algorithms. This repository employes as an educational resource for those interested in machine learning.
 
 # Key Features:
 
