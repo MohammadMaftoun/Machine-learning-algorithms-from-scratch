@@ -15,6 +15,7 @@ The Machine Learning Algorithms from Scratch repository aims to provide a compre
         K-Means Clustering
         XGBoost
         DBscan
+        UMAP
         Principal Component Analysis (PCA)
         Multilayer Perceptron (MLP)
 
