@@ -46,4 +46,4 @@ Contributions to the repository are highly motivated. Users can contribute by:
 Before contributing, users are advised to review the contributing guidelines provided in the repository to ensure that their contributions align with the project's objectives and coding standards.
 
 # License:
-This open-source repository allows users to freely use, modify, and distribute the code for commercial and non-commercial purposes.
+This open-source repository permits users to freely use, modify, and distribute the code for commercial and non-commercial purposes.
