@@ -1,7 +1,7 @@
 # Machine-learning-algorithms-from-scratch
 ![ML](https://media.geeksforgeeks.org/wp-content/uploads/20230808130011/Machine-Learning-Algorithms1-(1).webp)
 # Description:
-The Machine Learning Algorithms from Scratch repository aims to provide a comprehensive collection of well-documented implementations of various machine learning algorithms composed completely from scratch in Python. Users can better comprehend their internal workings and principles by delving into machine learning fundamentals and manually coding these algorithms. This repository employs as an educational resource for those interested in machine learning.
+The Machine Learning Algorithms from Scratch repository aims to provide a comprehensive collection of well-documented implementations of various machine learning algorithms composed completely from scratch in Python. Users can better comprehend their internal workings and principles by delving into machine learning fundamentals and manually coding these algorithms. This repository is employed as an educational resource for those interested in machine learning.
 
 # Key Features:
 
@@ -25,7 +25,7 @@ The Machine Learning Algorithms from Scratch repository aims to provide a compre
     
     Example Usage: For each algorithm, example scripts are provided to demonstrate how to use the implementations on sample datasets. These examples cover regression, classification, and clustering tasks, allowing users to see the algorithms in action and experiment with different parameters.
 
-    Performance Evaluation: The repository includes utilities for evaluating the performance of the implemented algorithms on various datasets. Metrics such as accuracy, precision, recall, and F1-score are computed to assess the effectiveness of the algorithms in different scenarios.
+    Performance Evaluation: The repository includes utilities for evaluating the performance of the implemented algorithms on various datasets. Metrics such as accuracy, precision, recall, and F1-score are computed to assess the algorithms' effectiveness in different scenarios.
 
     Integration with Popular Libraries: While this repository focuses on implementing algorithms from scratch, users can also find comparisons with implementations from popular machine learning libraries such as Scikit-Learn and TensorFlow. This allows us to benchmark the performance of their implementations against established solutions.
 
